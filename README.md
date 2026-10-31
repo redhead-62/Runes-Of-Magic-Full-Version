@@ -243,4 +243,4 @@ This repository serves as the official landing page for Runes of Magic. The soft
 **Get the most recent version of Runes of Magic today!**
 
 ---
-**Last updated:** 2026-10-31 07:54:43 UTC
+**Last updated:** 2026-10-31 14:13:34 UTC
